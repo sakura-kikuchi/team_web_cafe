@@ -1,5 +1,3 @@
-<<<<<<< HEAD
 
-=======
 readme -
->>>>>>> origin/master
+
